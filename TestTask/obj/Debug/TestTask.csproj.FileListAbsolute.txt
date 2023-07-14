@@ -1,0 +1,11 @@
+C:\Users\igoro\source\repos\TestTask\bin\Debug\TestTask.exe.config
+C:\Users\igoro\source\repos\TestTask\bin\Debug\TestTask.exe
+C:\Users\igoro\source\repos\TestTask\bin\Debug\TestTask.pdb
+C:\Users\igoro\source\repos\TestTask\obj\Debug\TestTask.csproj.AssemblyReference.cache
+C:\Users\igoro\source\repos\TestTask\obj\Debug\TestTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\igoro\source\repos\TestTask\obj\Debug\TestTask.Form1.resources
+C:\Users\igoro\source\repos\TestTask\obj\Debug\TestTask.Properties.Resources.resources
+C:\Users\igoro\source\repos\TestTask\obj\Debug\TestTask.csproj.GenerateResource.cache
+C:\Users\igoro\source\repos\TestTask\obj\Debug\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\igoro\source\repos\TestTask\obj\Debug\TestTask.exe
+C:\Users\igoro\source\repos\TestTask\obj\Debug\TestTask.pdb
